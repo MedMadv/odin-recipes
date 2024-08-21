@@ -1,1 +1,1 @@
-# odin-recipes
+A website about recipes where i want to test and improve my knowledge
