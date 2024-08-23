@@ -1,0 +1,33 @@
+.recipes {
+    font-size: 25px;
+}
+
+#title {
+    font-size: 40px;
+    color: blueviolet;
+    text-align: center;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+#lasagna {
+    font-weight: bold;
+}
+
+#pulled-pork {
+    font-weight: 600;
+}
+
+#italian-chicken {
+    font-weight: 300;
+}
+
+a:visited {
+    color: chocolate;
+}
+
+a:hover {
+    color: hotpink;
+}
